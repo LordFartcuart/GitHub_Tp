@@ -1,0 +1,5 @@
+{"id": 1, "nombre": "Juan", "salario": 50000}
+{"id": 2, "nombre": "Ana", "salario": 55000}
+{"id": 3, "nombre": "Carlos", "salario": 4000.0}
+{"id": 4, "nombre": "Marta", "salario": 52000}
+{"id": 5, "nombre": "Luis", "salario": 58000}
